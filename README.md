@@ -17,3 +17,11 @@
 
 
 This demo is designed to demonstrate basic FPS mechanics such as NavMesh-based AI movement, FPS camera controls, animations and player-enemy interactions. It is an effective resource for those new to FPS game development.
+
+
+
+
+
+
+https://github.com/Mthndmr16/Mini-FPS-Game/assets/93436285/57d00817-b0a0-4935-938b-6ccb01ec6657
+
