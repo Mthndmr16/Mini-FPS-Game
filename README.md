@@ -1,5 +1,5 @@
 # Mini FPS Game
- This Unity demo (only 1 scene) project demonstrates FPS mechanics, player and enemy interactions, as well as AI behavior in detail.
+ This Unity demo (only 1 scene) project demonstrates FPS mechanics, player and enemy interactions, as well as AI behavior in detail.  
 
 ****Player Features:****
 
